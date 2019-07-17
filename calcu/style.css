@@ -21,7 +21,27 @@ button, td{
     background: grey;
 }
 
-img{
-    width: 500px;
-    height: 500px;
+input{
+    background: green;
+    width: 95%;
+    height: 40px;
+    font-size: 40px;
+}
+
+.simbolos{
+    background: black;
+    color: white;
+    font-size: 10px;
+    margin: auto auto;
+    display: block;
+    width: 40px;
+}
+
+.numeros{
+    background: grey;
+    color: white;
+    font-size: 10px;
+    margin: auto auto;
+    display: block;
+    width: 40px;
 }
