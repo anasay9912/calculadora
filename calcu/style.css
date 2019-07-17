@@ -5,8 +5,7 @@
 
 button, td{
     border: black solid 1px;
-    width: 4px;
-    height: 4px;
+    width: 400px;
 }
 
 
@@ -24,24 +23,25 @@ button, td{
 
 input{
     background: green;
-    height: 20px;
-    font-size: 4px;
+    width: 95%;
+    height: 400px;
+    font-size: 400px;
 }
 
 .simbolos{
     background: black;
     color: white;
-    font-size: 1px;
+    font-size: 400px;
     margin: auto auto;
     display: block;
-    width: 4px;
+    width: 400px;
 }
 
 .numeros{
     background: grey;
     color: white;
-    font-size: 4px;
+    font-size: 400px;
     margin: auto auto;
     display: block;
-    width: 4px;
+    width: 400px;
 }
