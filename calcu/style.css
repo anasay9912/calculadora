@@ -5,7 +5,8 @@
 
 button, td{
     border: black solid 1px;
-    width: 40px;
+    width: 4px;
+    height: 4px;
 }
 
 
@@ -19,30 +20,28 @@ button, td{
 #calculadora{
     border: black solid 2px;
     background: grey;
-    transform: rotate(180deg);
 }
 
 input{
     background: green;
-    width: 95%;
-    height: 40px;
-    font-size: 40px;
+    height: 20px;
+    font-size: 4px;
 }
 
 .simbolos{
     background: black;
     color: white;
-    font-size: 40px;
+    font-size: 1px;
     margin: auto auto;
     display: block;
-    width: 40px;
+    width: 4px;
 }
 
 .numeros{
     background: grey;
     color: white;
-    font-size: 40px;
+    font-size: 4px;
     margin: auto auto;
     display: block;
-    width: 40px;
+    width: 4px;
 }
