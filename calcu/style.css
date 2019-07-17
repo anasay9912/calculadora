@@ -18,19 +18,19 @@ button, td{
 
 #calculadora{
     border: black solid 2px;
-    background: grey;
+    background: pink;
 }
 
 input{
-    background: green;
+    background: rgb(255,182,193);
     width: 95%;
     height: 40px;
     font-size: 40px;
 }
 
 .simbolos{
-    background: black;
-    color: white;
+    background: pink;
+    color: black;
     font-size: 40px;
     margin: auto auto;
     display: block;
@@ -38,8 +38,8 @@ input{
 }
 
 .numeros{
-    background: grey;
-    color: white;
+    background: white;
+    color: black;
     font-size: 40px;
     margin: auto auto;
     display: block;
