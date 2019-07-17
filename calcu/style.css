@@ -28,20 +28,7 @@ input{
     font-size: 40px;
 }
 
-.simbolos{
-    background: black;
-    color: white;
-    font-size: 10px;
-    margin: auto auto;
-    display: block;
+img{
     width: 40px;
-}
-
-.numeros{
-    background: grey;
-    color: white;
-    font-size: 10px;
-    margin: auto auto;
-    display: block;
-    width: 40px;
+    height: 40px;
 }
