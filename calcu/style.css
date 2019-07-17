@@ -19,11 +19,10 @@ button, td{
 #calculadora{
     border: black solid 2px;
     background: grey;
-    display: none;
 }
 
 input{
-    background: brown;
+    background: green;
     width: 95%;
     height: 40px;
     font-size: 40px;
